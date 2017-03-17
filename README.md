@@ -1,0 +1,3 @@
+# DownloadBingEverydayPicture
+DownloadBingEverydayPicture。
+写了个程序每天下载bing的每日壁纸
